@@ -48,11 +48,9 @@ B.E., Computer Engineering, Chulalongkorn University (2019)
 - 2019/03 First Runner Up Prize, National Software Contest 2019, BEST 2019 Handwritten Recognition, from 1,727 teams
 - 2019/03 Winner Prize CU TOYOTA Ha:mo OPEN INNOVATION CONTEST, from 15 temas
 - 2018/10 IEEEXTREME Programming Competition 12.0, 148th Global Ranking from 3,350 teams
-- 
 
 ## Scholarship and Funds
 - 2020/05 ~ 2021/03, CICP
-  - 
 - 2019/10 ~ present, The Konosuke Matsushita Memorial Foundation
   - Scholarship for graduate student
 - 2018/10, Quality Youths Scholarship of The Year 2018
